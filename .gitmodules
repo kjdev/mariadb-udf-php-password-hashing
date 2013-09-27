@@ -1,0 +1,3 @@
+[submodule "src/php-password-hashing"]
+	path = src/php-password-hashing
+	url = https://github.com/kjdev/php-password-hashing.git
